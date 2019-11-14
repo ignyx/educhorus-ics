@@ -2,8 +2,14 @@
 Correct the tags of the Educ'Horus ics Calendar
 
 ## Install
-`npm i`
+```
+  git clone https://github.com/Paulao17/educhorus-ics.git
+  cd educhorus-ics
+  npm i
+```
 
 ## Usage
-`FILE=ehorus.ics node calendar.js`
+```
+FILE=ehorus.ics node calendar.js
+```
 You can also omit the file option, as it default to `./ehorus.ics`.
