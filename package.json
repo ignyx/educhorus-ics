@@ -1,0 +1,28 @@
+{
+  "name": "educhorus-ics",
+  "version": "1.0.0",
+  "description": "Correct the tags of the Educ'Horus ics Calendar",
+  "main": "calendar.js",
+  "dependencies": {
+    "ics": "^2.18.0",
+    "node-ical": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulao17/educhorus-ics.git"
+  },
+  "keywords": [
+    "ics",
+    "educhorus"
+  ],
+  "author": "Paulao17",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Paulao17/educhorus-ics/issues"
+  },
+  "homepage": "https://github.com/Paulao17/educhorus-ics#readme"
+}
